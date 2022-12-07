@@ -1,4 +1,4 @@
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/sazal-islam/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/sazalislam04)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](twitter.com/mdsazalislam04)
+[<p align="center"><img height="75" src="./icons/Linkedin.png">](https://www.linkedin.com/in/sazal-islam/)[<img height="75" src="./icons/Facebook.png">](https://www.facebook.com/sazalislam04)[<img height="75" src="./icons/Twitter.png"> </p>](twitter.com/mdsazalislam04)
 
 <br />
 
