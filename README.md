@@ -4,7 +4,7 @@
 
 ## :eyes: Current overview
 
-### 🔭 I’m working in Front End Developer.
+### 🔭 I’m Front End Developer.
 
 ### 🌱 I’m exploring - Advance motion graphics for web.
 
